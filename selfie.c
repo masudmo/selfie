@@ -7027,6 +7027,9 @@ void printUsage() {
 
 int selfie() {
   int* option;
+  print((int*)"Mostafa Masud Selfie");
+  println();
+
 
   if (numberOfRemainingArguments() == 0)
     printUsage();
