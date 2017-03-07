@@ -7027,7 +7027,7 @@ void printUsage() {
 
 int selfie() {
   int* option;
-  print((int*)"This is Mostafa Masud Selfie");
+  print((int*)"This is Mostafa Masud's Selfie");
   println();
 
 
